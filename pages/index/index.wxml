@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<!-- 自定义头部，在app.json中设置"navigationStyle": "custom" -->
+<view>
+  <topnav title="首页" isShowBack="false"></topnav>
+  <!-- isShowBack为true时显示返回按钮 -->
+</view>
