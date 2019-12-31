@@ -10,5 +10,10 @@ Page({
   onLoad: function () {
     
   },
+  link(){
+    wx.navigateTo({
+      url: '../center/center',
+    })
+  }
 
 })

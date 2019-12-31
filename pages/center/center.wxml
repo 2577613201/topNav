@@ -1,0 +1,4 @@
+<view>
+  <dataTopNav  products="{{products}}" item="{{item}}" bind:productChange="productChange"></dataTopNav>
+  <view>{{itemCont}}</view>
+</view>

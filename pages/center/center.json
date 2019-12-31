@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+      "dataTopNav": "/pages/publicComponents/dataTopNav/dataTopNav"
+  }
+}

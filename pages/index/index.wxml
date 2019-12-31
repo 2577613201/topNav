@@ -3,4 +3,10 @@
 <view>
   <topnav title="首页" isShowBack="false"></topnav>
   <!-- isShowBack为true时显示返回按钮 -->
+  <view>
+      <text>自定义顶部</text>
+  </view>
+  <view bindtap="link" style="margin-top:50rpx">
+    <text>跳转到数据中心页~</text>
+  </view>
 </view>
